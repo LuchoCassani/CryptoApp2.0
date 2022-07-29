@@ -5,4 +5,6 @@
     <string name="crypto_price">crypto price</string>
     <string name="_24_hs_variation">24 hs variation</string>
     <string name="market_cap">market cap</string>
+    <string name="crypto_symbol">crypto symbol</string>
+    <string name="last_24hs_variation">last 24hs variation</string>
 </resources>
