@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Crypto App 2.0</string>
+    <string name="crypto_logo">crypto logo</string>
+    <string name="crypto_name">crypto name</string>
+    <string name="crypto_price">crypto price</string>
+    <string name="_24_hs_variation">24 hs variation</string>
+    <string name="market_cap">market cap</string>
 </resources>

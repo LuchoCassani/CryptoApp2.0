@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cards margins -->
+    <dimen name="card_margin_vertical">10dp</dimen>
+    <dimen name="card_margin_horizontal">8dp</dimen>
+</resources>
